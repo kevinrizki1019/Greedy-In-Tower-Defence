@@ -1,3 +1,4 @@
+
 # Java starter bot
 
 ## Environment requirements
@@ -18,3 +19,9 @@ This  will create a .jar file in the folder called "target". The file will be ca
 
 To run the bot, copy the file "java-sample-bot-jar-with-dependencies.jar" to a different location. Then go to the starter-pack and edit the config.json file accordingly.
 Then run the "run.bat" file on windows or the "run.sh" file for unix.
+
+# Greedy-In-Tower-Defence
+Implementation of Greedy Algorithm in Tower Defence
+
+Configure the confguration directory according by yourself!
+
