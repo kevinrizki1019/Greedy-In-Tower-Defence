@@ -1,4 +1,2 @@
-# Greedy-In-Tower-Defence
-Implementation of Greedy Algorithm in Tower Defence
 
-Configure the confguration directory according by yourself!
+- the project of each bot is already inside the java directory in test-bot
