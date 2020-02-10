@@ -1,0 +1,13 @@
+Aggresive Greedy Attack Modified With Tesla Tower
+
+Collect energy strategy
+- Objective: Get energy per turn above 27 (9 building energy) with asumption in every turn we can always build attack or defence building
+- Constraint: Have minimum 20 energy
+
+Attack strategy
+- Objective: Place attack tower in row that doesn't have defence building
+- Constraint: Have minimum 30 energy 
+
+Advanced attack strategy
+- Objective: Place tesla with hope will give magnifous damage
+- Constraint: Have minimum 300 energy and the number of tesla is less than 3
