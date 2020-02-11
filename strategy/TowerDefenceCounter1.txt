@@ -1,7 +1,0 @@
-Defence Aggresive Greedy Attack
-
-Energy -> enough
-- If the player energy is above 30, whether there is low number of energy buildings, stop build energy buildings. Else build energy where there is no enemy attack tower
-
-Attack
-- Build attack tower in row where there is no defence or attack tower

@@ -1,0 +1,17 @@
+Aggresive Greedy Attack
+
+Collect energy strategy
+- Objective: Get energy per turn above 27 (9 building energy) with asumption in every turn we can always build attack or defence building
+- Constraint: Have minimum 20 energy
+- Solution: Place energy building randomly from back
+
+Defence strategy
+- Objective: Place defense in row where there is four missiles in that row
+- Constraint: Have minimum 30 energy
+- Solution: Place defense tower in those row
+
+Attack strategy
+- Objective: Aggresive attacking, place in row there the ninth energy tower not in that row and
+there is at most 1 defense tower and at least one attack tower
+- Constraint: Have minimum 30 energy 
+- Solution: Place attack tower in those row

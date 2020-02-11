@@ -5,8 +5,5 @@ Collect energy strategy
 - Constraint: Have minimum 20 energy
 
 Attack strategy
-- Objective: Place attack tower in row that doesn't have defence building
+- Objective: Place attack tower in row that doesn't have defence building (and the ninth energy tower is not in that row).
 - Constraint: Have minimum 30 energy 
-
-Defence strategy
-- Objective: 
